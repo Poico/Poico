@@ -1,9 +1,14 @@
 Hi 👋 My name is Rodrigo Damasceno
-==================================Student in Computer Science and Engeneering-------------------------------------------I'm a junior developer, I embrace every project as a chance to push my limits and expand my skills. Currently studying Computer Science in IST-Lisbon* 
+<p>I'm a junior developer, I embrace every project as a chance to push my limits and expand my skills. Currently studying Computer Science in IST-Lisbon* </p>
+<p></p>
 🌍  I'm based in Portugal* 
+<p></p>
 🖥️  See my portfolio at [MyPortfolio](http://poico.bcdlab.xyz/)* 
+<p></p>
 ✉️  You can contact me at [rodrigodecgomes@gmail.com](mailto:rodrigodecgomes@gmail.com)* 
+<p></p>
 🧠  I'm learning C#, Unity, C++, C, Operating Systems
+<p></p>
 
 <a href="https://www.github.com/Poico" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Poico?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

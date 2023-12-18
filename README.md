@@ -8,7 +8,7 @@
 
 <h4>✉️  You can contact me at <a href="mailto:rodrigodecgomes@gmail.com">rodrigodecgomes@gmail.com</a></h4>
 <p></p>
-<h4>🧠  I'm learning C#, Unity, C++, C, Operating Systems</h4>
+<h4>🧠  I'm learning C#, Unity, C++, C, Operating Systems, Unreal Engine</h4>
 <p></p>
 
 <a href="https://www.github.com/Poico" target="_blank" rel="noreferrer">

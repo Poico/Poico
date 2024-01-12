@@ -3,9 +3,10 @@
 <p></p>
 <h4>🌍  I'm based in Portugal</h4>
 <p></p>
-<h4>🖥️  See my portfolio at <a href="http://poico.bcdlab.xyz/">MyPortfolio</a></h4>
+<h4>🖥️  See my website at <a href="http://poico.bcdlab.xyz/">MyPortfolio</a></h4>
 <p></p>
-
+<h4> You can see my <a href=".\cvRodrigoDamasceno.pdf">CV</a> </h4>
+<p></p>
 <h4>✉️  You can contact me at <a href="mailto:rodrigodecgomes@gmail.com">rodrigodecgomes@gmail.com</a></h4>
 <p></p>
 <h4>🧠  I'm learning C#, Unity, C++, C, Operating Systems, Unreal Engine</h4>
